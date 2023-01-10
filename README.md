@@ -8,3 +8,4 @@ Methods: steps to create databases locally on MySQL Workbench
 NOTE: Change the two .ini files if needed
 
 # See Project Report for a detailed summary of the project
+# Collaborator: Chi Phan
