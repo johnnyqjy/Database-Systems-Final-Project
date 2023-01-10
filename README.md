@@ -7,4 +7,4 @@ Methods: steps to create databases locally on MySQL Workbench
 5.	The buttons “Employee’s Performance” and “Productlines' Performance” will populate the dashboard for sales performance of each employee and each product line.
 NOTE: Change the two .ini files if needed
 
-#See Project_Report for a detailed summary of the project
+# See Project Report for a detailed summary of the project
